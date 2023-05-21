@@ -1,0 +1,2 @@
+# Ignore metadata about the display options of folders on macOS
+**/.DS_Store
