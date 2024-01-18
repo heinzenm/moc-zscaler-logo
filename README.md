@@ -14,6 +14,10 @@ Open the [.io](Zscaler-Logo-Small.io) with [STUDIO 2.0](https://www.bricklink.co
 ### Building Instructions
 The building instructions are provided as a step-by-step guide, much like you are used to from official LEGO sets. You can download the Instructions in PDF format. You should be able to use any PDF Viewer to open it (the viewer built into the Google Chrome browser also works).
 
+## Parts Lists
+The parts list is provided in different formats for various LEGO community and commerce sites. 
+All parts are available on Legos [Pick a Brick](http://shop.lego.com/en-US/Pick-A-Brick-ByTheme) website. Alternatively you can order on [Bricklink](https://bricklink.com) use the XML to [import the Wanted List](https://www.bricklink.com/help.asp?helpID=1)
+
 ## Copyrights
 Zscaler™ and Zero Trust Exchange™ are either (i) registered trademarks or service marks or (ii) trademarks or service marks of Zscaler, Inc. in the United States and/or other countries. Any other trademarks are the properties of their respective owners.
 
